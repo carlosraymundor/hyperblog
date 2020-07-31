@@ -4,3 +4,5 @@ Freddy Vega tiene 33 años y nación en Colombia,
 viviendo en todo el mundo
 
 Mañana nos enfocaremos en su vida laboral
+
+probando VSCode como editor predeterminado
